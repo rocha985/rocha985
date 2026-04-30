@@ -5,4 +5,5 @@
 I mostly work with NestJS and React. I also contribute to the [Capivara Solidária](https://capivara-solidaria.com.br/) project.
 
 
-![Snake animation](https://github.com/rocha985/rocha985/blob/output/dist/github-contribution-grid-snake.svg)
+## Commits
+![](https://raw.githubusercontent.com/rocha985/rocha985/output/github-contribution-grid-snake-dark.svg)
