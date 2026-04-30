@@ -1,0 +1,25 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" preserveAspectRatio="xMidYMid slice">
+  <title id="title">Waving Gradient Animation - Dark</title>
+  <desc id="desc">Smooth flowing waves with blue gradient for dark themes</desc>
+  <defs>
+    <linearGradient id="wavegradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e293b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <g>
+    <path d="M0,60 Q300,30 600,60 T1200,60 L1200,180 L0,180 Z" fill="url(#wavegradient)" opacity="0.8">
+      <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0,60 Q300,30 600,60 T1200,60 L1200,180 L0,180 Z;M0,80 Q300,110 600,80 T1200,80 L1200,180 L0,180 Z;M0,60 Q300,30 600,60 T1200,60 L1200,180 L0,180 Z"/>
+    </path>
+    <path d="M0,90 Q300,120 600,90 T1200,90 L1200,180 L0,180 Z" fill="#3b82f6" opacity="0.5">
+      <animate attributeName="d" dur="10s" repeatCount="indefinite" values="M0,90 Q300,120 600,90 T1200,90 L1200,180 L0,180 Z;M0,70 Q300,40 600,70 T1200,70 L1200,180 L0,180 Z;M0,90 Q300,120 600,90 T1200,90 L1200,180 L0,180 Z"/>
+    </path>
+    <path d="M0,110 Q300,80 600,110 T1200,110 L1200,180 L0,180 Z" fill="#2563eb" opacity="0.35">
+      <animate attributeName="d" dur="12s" repeatCount="indefinite" values="M0,110 Q300,80 600,110 T1200,110 L1200,180 L0,180 Z;M0,100 Q300,140 600,100 T1200,100 L1200,180 L0,180 Z;M0,110 Q300,80 600,110 T1200,110 L1200,180 L0,180 Z"/>
+    </path>
+    <path d="M0,130 Q300,100 600,130 T1200,130 L1200,180 L0,180 Z" fill="#1e40af" opacity="0.25">
+      <animate attributeName="d" dur="14s" repeatCount="indefinite" values="M0,130 Q300,100 600,130 T1200,130 L1200,180 L0,180 Z;M0,120 Q300,160 600,120 T1200,120 L1200,180 L0,180 Z;M0,130 Q300,100 600,130 T1200,130 L1200,180 L0,180 Z"/>
+    </path>
+  </g>
+</svg>
