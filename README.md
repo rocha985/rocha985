@@ -4,8 +4,4 @@
 
 I mostly work with NestJS and React. I also contribute to the [Capivara Solidária](https://capivara-solidaria.com.br/) project.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/waving-footer-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/waving-footer-light.svg" />
-  <img alt="waving footer animation" src="./assets/waving-footer-light.svg" width="100%" />
-</picture>
+<img alt="waving footer animation" src="./assets/waving-footer.svg" width="100%" />
