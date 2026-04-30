@@ -4,8 +4,6 @@
 
 I mostly work with NestJS and React. I also contribute to the [Capivara Solidária](https://capivara-solidaria.com.br/) project.
 
-## ✨ Welcome
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/waving-footer-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/waving-footer-light.svg" />
